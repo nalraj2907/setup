@@ -47,7 +47,7 @@ public class Arr {
                 
             }
         }
-        */
+        */  
 
          /* 
         int sum=0;
@@ -59,5 +59,9 @@ public class Arr {
         }
         System.out.print(sum);
         */
+
+
+
+        
     }  
 }

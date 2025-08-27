@@ -18,7 +18,7 @@ class Circle extends Shape{
         // Shape obj =new Shape();
         // obj.draw();
         Circle obj1 =new Circle();
-        obj1.draw();
+        obj1.draw();   0]p[kj kok]
         
 
     }
